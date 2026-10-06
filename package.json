@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "el-golazo-api",
   "version": "1.0.0",
   "description": "API REST para la cancha de futbol El Golazo",
@@ -8,9 +8,7 @@
     "start": "node server.js",
     "dev": "node --watch server.js"
   },
-  "engines": {
-    "node": ">=20"
-  },
+  "engines": { "node": ">=20" },
   "keywords": ["api", "rest", "cancha", "futbol"],
   "author": "El Golazo",
   "license": "MIT",
@@ -19,4 +17,3 @@
     "express": "^4.19.2"
   }
 }
-
